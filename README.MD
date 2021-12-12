@@ -1,6 +1,6 @@
-## Snake Game writen in python
+# Snake Game writen in python
 
-# How to run:
+## How to run:
 
 - Download and install python 3.10 (https://www.python.org/downloads/)
 - Confirm your python installation by running "python --version"
